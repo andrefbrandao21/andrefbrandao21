@@ -6,7 +6,7 @@
 <hr>
 
 <h3>About Me</h3>  
-  Hi there! I am André, a master's student in Economics at UFPB, focusing on Data Engineering, Predictive Modeling, and Causal Inference.
+  I am André Santos, a master's student in Economics at UFPB, focusing on Data Engineering, Predictive Modeling, and Causal Inference.
 </div>
 
 

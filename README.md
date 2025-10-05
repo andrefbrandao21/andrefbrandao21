@@ -9,13 +9,6 @@
   Hi there! I am André, a master's student in Economics at UFPB, focusing on Data Engineering, Predictive Modeling, and Causal Inference.
 </div>
 
-<hr>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrefbrandao21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefbrandao21&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
 
 <hr>
 

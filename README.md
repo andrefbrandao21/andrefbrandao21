@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="URL_DO_SEU_BANNER_ANIMADO.gif" alt="Banner Animado"/>
-</p>
 
----
 <br>
 
 <h3>About Me</h3>  

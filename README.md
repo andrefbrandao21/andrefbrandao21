@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://www.canva.com/design/DAG08yrO1S8/aRx7l8YAXSAIJgErFvQm3g/edit?utm_content=DAG08yrO1S8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner Animado"/>
+</p>
 <br>
 
 <h3>About Me</h3>  

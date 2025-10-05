@@ -5,7 +5,7 @@
 ---
 <br>
 
-<h3 align="center">About Me</h3>  
+<h3>About Me</h3>  
   Hi there! I am André, a master's student in Economics at UFPB, focusing on Data Engineering, Predictive Modeling, and Causal Inference.
 </div>
 
@@ -19,8 +19,8 @@
 
 <hr>
 
-<h3 align="center">My Tech Stack</h3>
-<p align="center">
+<h3>My Tech Stack</h3>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
@@ -32,8 +32,8 @@
 
 <hr>
 
-<h3 align="center">Contact</h3>
-<p align="center">
+<h3>Contact</h3>
+<p>
   <a href="mailto:brandaoandrefilipe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>

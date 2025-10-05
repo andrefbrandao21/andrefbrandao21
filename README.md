@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am André, a master's student in Economics at UFPB, focusing on Data Engineering, Predictive Modeling, and Causal Inference
 
 
 ### My tech stack

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG08yrO1S8/PK6edVsvrIlGSSSENimKtA/view?utm_content=DAG08yrO1S8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h35f0b8b7a8" alt="Banner Animado"/>
+  <img src=https://github.com/andrefbrandao21/andrefbrandao21/issues/1#issue-3485095612" alt="Banner Animado"/>
 </p>
 <br>
 

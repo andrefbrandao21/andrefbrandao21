@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrefbrandao21/andrefbrandao21/main/cover.png?v=2" alt="André Filipe Santos - Banner" width="100%"/>
+  <img src="cover.png" alt="André Filipe Santos - Banner" width="100%"/>
 </p>
 
 <h1 align="center">André Filipe Brandão Santos</h1>

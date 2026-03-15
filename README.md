@@ -61,7 +61,3 @@ I operate at the intersection of **Econometrics** and **Machine Learning**, tran
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrefbrandao&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>

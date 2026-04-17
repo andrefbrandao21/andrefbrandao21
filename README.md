@@ -44,7 +44,6 @@ I operate at the intersection of **Econometrics** and **Machine Learning**, tran
 
 ### 🔬 Key Research & Projects
 - **Fintech Impact:** Econometric analysis of Pix (Instant Payments) and financial digitalization in Brazil.
-- **Smart Cities:** Causal evaluation of Smart Lighting (LED) and AI-driven surveillance (SPIA) on public safety.
 - **Public Finance:** Efficiency and spatial spillovers of environmental tax incentives.
 
 ---
